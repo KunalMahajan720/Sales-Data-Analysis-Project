@@ -1,4 +1,4 @@
-# Sales-Data-Analysis-Project
+**Sales-Data-Analysis-Project**
 
 Power BI Dashboard Project: **Swastik Roadlines Sales Data Analysis**
 
